@@ -4,7 +4,7 @@ import './scss/app.scss';
 function App() {
   return (
     <div className="App">
-     ThreeJS RPG
+      ThreeJS RPG
     </div>
   );
 }
